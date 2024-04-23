@@ -1,5 +1,5 @@
 ## ArgoCD GUI access
-<a target="_blank" href="demo1.gif">   
+<a target="_blank" href="argo_install.gif">   
     <img src="demo_argocd2.gif" alt="demo ArgoCD access" style="max-width: 100%; display: inline-block;"> 
 </a>
 
